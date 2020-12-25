@@ -212,7 +212,7 @@ public class MainActivity extends BaseActivity implements BaseHandler.HandlerRes
 
     /**
      * handler处理成功的回调函数
-     * @link com.jsbintask@gmail.com.memo.base.BaseHandler
+ 
      */
     @Override
     public void handlerSuccess(Message msg) {
