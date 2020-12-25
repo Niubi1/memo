@@ -1,8 +1,7 @@
 package cn.jsbintask.memo;
 
 /**
- * @author jsbintask@gmail.com
- * @date 2018/4/25 15:35
+ *
  * 常量类
  */
 public class Constants {
