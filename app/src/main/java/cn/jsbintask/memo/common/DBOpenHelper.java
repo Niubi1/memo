@@ -34,10 +34,10 @@ public class DBOpenHelper extends SQLiteOpenHelper {
         db.beginTransaction();
         db.execSQL(sql, new Object[]{"jsbintask->memo",
                 "Memo是一个小巧方便带有闹铃功能的记事本app，主要使用butterknife和recycleview，clockmanager构建\n" +
-                        "git地址：https://github.com/jsbintask22/memo.git",
-                "2018-04-25 17:28:23",
-                "2018-04-25 17:28",
-                "2018-04-25 17:28",
+                        "git地址：https://github.com/Niubi1/memo",
+                "2012-11-25 17:28:23",
+                "2020-11-25 17:28",
+                "2020-11-26 17:28",
                 0, 0});
         db.setTransactionSuccessful();
         db.endTransaction();
